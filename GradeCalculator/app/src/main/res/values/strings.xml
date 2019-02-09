@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Grade Calculator</string>
+    <string name="title_activity_result">ResultActivity</string>
+</resources>
